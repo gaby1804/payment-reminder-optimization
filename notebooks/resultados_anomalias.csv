@@ -1,0 +1,6 @@
+payment_id,customer_id,amount_paid,amount_due,days_late,payment_method,state,anomaly_score,is_anomaly
+1,1,100,100,0,credit,CA,0.14865119828123385,0
+2,2,200,200,5,debit,NY,0.1659008025078999,0
+3,3,150,150,10,credit,TX,0.09122703842430718,0
+4,4,500,500,0,cash,FL,0.07159810170869607,0
+5,5,50,100,30,credit,CA,-0.01789952542717399,1
