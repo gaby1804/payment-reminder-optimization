@@ -15,4 +15,5 @@ dependencies = [
     "scikit-learn>=1.5.0",
     "matplotlib>=3.10.3",
     "seaborn>=0.13.2",
+    "kaleido",
 ]
