@@ -93,7 +93,7 @@ Contains all the generated CSV datasets used for modeling and analysis:
   `generate_data.py`
 
 
-### 📁 `notebooks/`
+###  `notebooks/`
 Houses the complete analytical process in Jupyter notebooks (and compiled HTML reports):
 
 1. **`01_EDA.ipynb`** – *Exploratory Data Analysis*  
@@ -107,7 +107,7 @@ Houses the complete analytical process in Jupyter notebooks (and compiled HTML r
 3. **`03_SD.ipynb`** – *Solution Design*  
    Proposes and simulates improved reminder strategies, evaluates impact, and guides business implementation.
 
-### 📄 Jupyter Notebooks in PDF Format
+###  Jupyter Notebooks in PDF Format
 
 Due to requirements from the **UV platform**, the Jupyter Notebooks used in this project have been exported and included in **PDF format**. This allows reviewers to see the content and results without needing to set up and run the Python environment.
 
