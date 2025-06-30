@@ -107,6 +107,9 @@ Houses the complete analytical process in Jupyter notebooks (and compiled HTML r
 3. **`03_SD.ipynb`** – *Solution Design*  
    Proposes and simulates improved reminder strategies, evaluates impact, and guides business implementation.
 
+### 📄 Jupyter Notebooks in PDF Format
+
+Due to requirements from the **UV platform**, the Jupyter Notebooks used in this project have been exported and included in **PDF format**. This allows reviewers to see the content and results without needing to set up and run the Python environment.
 
 
 ###  Other Key Files
@@ -114,6 +117,8 @@ Houses the complete analytical process in Jupyter notebooks (and compiled HTML r
 - `Drawing.png` – Conceptual data model used to design the schema
 - `.gitignore`, `pyproject.toml`, `.python-version` – Environment and dependency management
 - `README.md` – Project documentation and roadmap
+
+
 
 ### Conversation history with AI assistants used during solution development
   https://chatgpt.com/share/6862d0b8-5d5c-800a-a077-7eb08716a832
